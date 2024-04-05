@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">conversorsito</string>
+
+    <!-- Other strings above... -->
+    <string name="conversion_result_text">Resultado: %1$.2f</string>
+    <string name="conversion_error_text">Error en la conversión. Compruebe las monedas.</string>
+    <string name="amount_error_text">Por favor ingrese una cantidad.</string>
+    <!-- Other strings below... -->
+
+</resources>
